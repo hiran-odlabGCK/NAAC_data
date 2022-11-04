@@ -86,7 +86,7 @@ window.onload = function () {
 
 document.getElementById("appointmentBtn").onclick = function () {
   if (facultySel.value === "Mr. ANOOPKUMAR M") {
-    document.getElementById("appointmentBtn").href = "/home/user/Desktop/Hiran/economics/appointment order/AnoopKumar.pdf";
+    document.getElementById("appointmentBtn").href = "data/economics/appointment/AnoopKumar.pdf";
   }
   else  {
     document.getElementById("appointmentBtn").href = "/home/user/Desktop/Hiran/dummy.pdf"
@@ -95,7 +95,7 @@ document.getElementById("appointmentBtn").onclick = function () {
 
 document.getElementById("joiningBtn").onclick = function () {
   if (facultySel.value === "Mr. ANOOPKUMAR M") {
-    document.getElementById("joiningBtn").href = "/home/user/Desktop/Hiran/economics/joining order/Anoop  joining order.pdf";
+    document.getElementById("joiningBtn").href = "data/economics/joining/Anoop  joining order.pdf";
   }
   else  {
     document.getElementById("joiningBtn").href = "/home/user/Desktop/Hiran/dummy.pdf"
