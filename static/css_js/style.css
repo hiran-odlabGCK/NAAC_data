@@ -1,0 +1,55 @@
+body {
+  background-image: url("/home/user/Desktop/Hiran/static/images/n8e2_6p0w_180418.jpg");
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  color:yellow;
+  margin-left: 175px;
+  font-size: 28px;
+  margin-top: 250px;
+}
+
+.dropdown{
+  line-height: 20px;
+  text-align: right;
+  color: white;
+  font-size: 20px;
+  margin-right: 36%;
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+select {
+  background: lightgray;
+  border: 1px solid black;
+  width: 30%;
+  height: 35px;
+  margin: 0;
+  display: inline-block;
+  margin-left: 1cm;
+}
+
+.select {
+  color: brown;
+  font-size: 18px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.button{
+  font-weight: bold;
+  font-size: 18px;
+  padding: 5px;
+  width: 30%;
+  height: 35px;
+  margin-top: 20px;
+  background:bisque;
+  margin-left: 34%;
+}
+
+.button:hover{
+  background-color: darkorange;
+}
