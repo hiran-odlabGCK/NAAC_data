@@ -89,7 +89,7 @@ document.getElementById("appointmentBtn").onclick = function () {
     document.getElementById("appointmentBtn").href = "data/economics/appointment/AnoopKumar.pdf";
   }
   else  {
-    document.getElementById("appointmentBtn").href = "/home/user/Desktop/Hiran/dummy.pdf"
+    document.getElementById("appointmentBtn").href = "data/economics/dummy.pdf"
   }
 };
 
@@ -98,6 +98,6 @@ document.getElementById("joiningBtn").onclick = function () {
     document.getElementById("joiningBtn").href = "data/economics/joining/Anoop  joining order.pdf";
   }
   else  {
-    document.getElementById("joiningBtn").href = "/home/user/Desktop/Hiran/dummy.pdf"
+    document.getElementById("joiningBtn").href = "data/economics/dummy.pdf"
   }
 };
